@@ -7,7 +7,7 @@
     "matcherUrl": "https://gw.wavesplatform.com/api",
     "gatewayUrl": "https://gw.wavesplatform.com/api"
   },
-  "scheme": "W",
+  "scheme": "L",
   "generalAssets": [
     {
       "iconUrls": {

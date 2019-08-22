@@ -7,7 +7,7 @@
     "matcherUrl": "https://match.aswap.io/matcher",
     "gatewayUrl": "https://gw.wavesplatform.com/api"
   },
-  "scheme": "W",
+  "scheme": "L",
   "generalAssets": [
     {
       "iconUrls": {

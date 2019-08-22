@@ -7,7 +7,7 @@
     "matcherUrl": "https://match.aswap.io/matcher",
     "gatewayUrl": "https://gateways-dev.wvservices.com/api"
   },
-  "scheme": "T",
+  "scheme": "L",
   "generalAssets": [
     {
       "assetId": "WAVES",
