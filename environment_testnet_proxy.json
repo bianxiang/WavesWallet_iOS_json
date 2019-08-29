@@ -1,16 +1,16 @@
 {
   "name": "Testnet",
   "servers": {
-    "nodeUrl": "https://node.aswap.io",
-    "dataUrl": "https://data.aswap.io",
+    "nodeUrl": "https://node.vikvon.com",
+    "dataUrl": "https://data.vikvon.com",
     "spamUrl": "https://raw.githubusercontent.com/bianxiang/WavesWallet_iOS_json/master/Scam%20tokens%20according%20to%20the%20opinion%20of%20Waves%20Community.csv",
-    "matcherUrl": "https://match.aswap.io",
+    "matcherUrl": "https://match.vikvon.com",
     "gatewayUrl": "https://gateways-dev.wvservices.com/api"
   },
   "scheme": "L",
   "generalAssets": [
     {
-      "assetId": "4W3eL84ptFERHENu81F9soUMZyVz3DpF7c3mDJm3qz8P",
+      "assetId": "WAVES",
       "displayName": "Waves",
       "isFiat": false,
       "isGateway": false,
@@ -20,7 +20,7 @@
       "addressRegEx": ""
     },
     {
-      "assetId": "4BW8kPScwbzXpRrAx8uG74F3kcGSzxBjAFSq6BsgEu6M",
+      "assetId": "AMPAZLrBAvoqJRm9kgQcEzUxoumtzHJTmWWX2ei1CxGn",
       "displayName": "Bitcoin",
       "isFiat": false,
       "isGateway": true,
@@ -30,7 +30,7 @@
       "addressRegEx": "^[13][a-km-zA-HJ-NP-Z1-9]{25,34}|(bc1)[a-z0-9]{25,90}"
     },
     {
-      "assetId": "HCEZmC2RZJET2tRNfR5fEF8XzbvyDpZtMS5dg4ZTNmgo",
+      "assetId": "9efTkZrazq45Qoud4wdXeP48gEvGg3Ymj6v4c2qbVrj1",
       "displayName": "Ethereum",
       "isFiat": false,
       "isGateway": true,
@@ -40,7 +40,7 @@
       "addressRegEx": "^0x[a-fA-F0-9]{40}$"
     },
     {
-      "assetId": "8U3XULm2XHbuFPED156wcA5ioGWvhESZrrAynabZ3KBi",
+      "assetId": "AeRTHxhQzgBZGCBRGAZJBAjAWEFfp5rfEqBgeKU8UDye",
       "displayName": "US Dollar",
       "isFiat": true,
       "isGateway": true,
