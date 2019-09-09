@@ -26,7 +26,7 @@
       "iconUrls": {
         "default": "https://d1jh0rcszsaxik.cloudfront.net/assset_icons/v3/bitcoin.png"
       },
-      "assetId": "Uc3UqEKU8WGPNLrBdGkLy7QSNCmMw4bFFRqfBWVqZd2",
+      "assetId": "33UyH7uoafEVNMw9Bq4hYzweR2ErJxK8hnWfU2uLVQfx",
       "displayName": "Bitcoin",
       "isFiat": false,
       "isGateway": true,
@@ -39,7 +39,7 @@
       "iconUrls": {
         "default": "https://d1jh0rcszsaxik.cloudfront.net/assset_icons/v3/ethereum.png"
       },
-      "assetId": "8s8QH7Gk7HLqqvGugobg7ygLTULNpsCJDAChyUv1HEU7",
+      "assetId": "5FT61R2bo4LoQVScNa8ANdCPWJkVuVQKRu4krV5wDPKu",
       "displayName": "Ethereum",
       "isFiat": false,
       "isGateway": true,
@@ -52,7 +52,7 @@
       "iconUrls": {
         "default": "https://d1jh0rcszsaxik.cloudfront.net/assset_icons/v3/usd.png"
       },
-      "assetId": "z5JawRoCLr8Ei27ecz2HDvM5s8te8iTyy5FSdf3apwT",
+      "assetId": "FLydjNmtfwnZQUosVQ3RZTYaiR7hxRXpguV8JRfC9TNh",
       "displayName": "US Dollar",
       "isFiat": true,
       "isGateway": true,

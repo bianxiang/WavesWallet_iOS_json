@@ -20,7 +20,7 @@
       "addressRegEx": ""
     },
     {
-      "assetId": "Uc3UqEKU8WGPNLrBdGkLy7QSNCmMw4bFFRqfBWVqZd2",
+      "assetId": "33UyH7uoafEVNMw9Bq4hYzweR2ErJxK8hnWfU2uLVQfx",
       "displayName": "Bitcoin",
       "isFiat": false,
       "isGateway": true,
@@ -30,7 +30,7 @@
       "addressRegEx": "^[13][a-km-zA-HJ-NP-Z1-9]{25,34}|(bc1)[a-z0-9]{25,90}"
     },
     {
-      "assetId": "8s8QH7Gk7HLqqvGugobg7ygLTULNpsCJDAChyUv1HEU7",
+      "assetId": "5FT61R2bo4LoQVScNa8ANdCPWJkVuVQKRu4krV5wDPKu",
       "displayName": "Ethereum",
       "isFiat": false,
       "isGateway": true,
@@ -40,7 +40,7 @@
       "addressRegEx": "^0x[a-fA-F0-9]{40}$"
     },
     {
-      "assetId": "z5JawRoCLr8Ei27ecz2HDvM5s8te8iTyy5FSdf3apwT",
+      "assetId": "FLydjNmtfwnZQUosVQ3RZTYaiR7hxRXpguV8JRfC9TNh",
       "displayName": "US Dollar",
       "isFiat": true,
       "isGateway": true,
