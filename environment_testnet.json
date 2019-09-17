@@ -11,7 +11,7 @@
   "generalAssets": [
     {
       "assetId": "WAVES",
-      "displayName": "Waves",
+      "displayName": "Swap",
       "isFiat": false,
       "isGateway": false,
       "wavesId": "WAVES",
