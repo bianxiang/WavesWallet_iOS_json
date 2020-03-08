@@ -1,10 +1,10 @@
 {
   "name": "Mainnet",
   "servers": {
-    "nodeUrl": "https://node.vikvon.com",
-    "dataUrl": "https://data.vikvon.com",
+    "nodeUrl": "https://node.dcdex.io",
+    "dataUrl": "https://data.dcdex.io",
     "spamUrl": "https://raw.githubusercontent.com/bianxiang/WavesWallet_iOS_json/master/Scam%20tokens%20according%20to%20the%20opinion%20of%20Waves%20Community.csv",
-    "matcherUrl": "https://match.vikvon.com",
+    "matcherUrl": "https://match.dcdex.io",
     "gatewayUrl": "https://gw.wavesplatform.com/api"
   },
   "scheme": "S",
